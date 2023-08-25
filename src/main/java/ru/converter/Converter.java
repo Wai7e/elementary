@@ -1,4 +1,4 @@
-package ru.calculator;
+package ru.converter;
 
 public class Converter {
     public static float rubToEur(float value) {
