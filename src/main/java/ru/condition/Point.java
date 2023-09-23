@@ -14,3 +14,4 @@ public class Point {
         System.out.println("Distance is " + result);
     }
 }
+
